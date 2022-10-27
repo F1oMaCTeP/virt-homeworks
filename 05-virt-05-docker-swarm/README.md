@@ -35,7 +35,7 @@ docker swarm update --autolock=true
 ```
 
 
----
+---1
 
 ### Как cдавать задание
 
